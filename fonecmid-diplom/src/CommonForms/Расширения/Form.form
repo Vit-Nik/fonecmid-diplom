@@ -832,6 +832,10 @@
               <valuesPicture xsi:type="core:PictureRef">
                 <picture>CommonPicture.СостоянияРасширенийКонфигурации</picture>
               </valuesPicture>
+              <border xsi:type="core:BorderDef">
+                <style>Single</style>
+                <width>1</width>
+              </border>
             </extInfo>
           </items>
           <items xsi:type="form:FormField">
@@ -1347,11 +1351,6 @@
           <name>СписокРасширенийПриАктивизацииСтроки</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СписокРасширенийСтрокаПоиска</name>
           <id>23</id>
           <extendedTooltip>
@@ -1385,11 +1384,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СписокРасширенийСостояниеПросмотра</name>
           <id>26</id>
           <extendedTooltip>
@@ -1424,11 +1418,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СписокРасширенийУправлениеПоиском</name>
           <id>29</id>
           <extendedTooltip>

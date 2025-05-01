@@ -954,11 +954,6 @@
               <name>ТаблицаДанныхВыбор</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаДанныхДоступаСтрокаПоиска</name>
               <id>161</id>
               <extendedTooltip>
@@ -992,11 +987,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаДанныхДоступаСостояниеПросмотра</name>
               <id>164</id>
               <extendedTooltip>
@@ -1031,11 +1021,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаДанныхДоступаУправлениеПоиском</name>
               <id>167</id>
               <extendedTooltip>
@@ -1481,11 +1466,6 @@
               <name>ТаблицаДанныхВыбор</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаДанныхОтказаДействияДоступаСтрокаПоиска</name>
               <id>170</id>
               <extendedTooltip>
@@ -1519,11 +1499,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаДанныхОтказаДействияДоступаСостояниеПросмотра</name>
               <id>173</id>
               <extendedTooltip>
@@ -1558,11 +1533,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаДанныхОтказаДействияДоступаУправлениеПоиском</name>
               <id>176</id>
               <extendedTooltip>
@@ -1941,11 +1911,6 @@
                 <name>ТаблицаДанныхВыбор</name>
               </handlers>
               <searchStringAddition>
-                <visible>true</visible>
-                <enabled>true</enabled>
-                <userVisible>
-                  <common>true</common>
-                </userVisible>
                 <name>ТаблицаСвойствПользователяИБСтрокаПоиска</name>
                 <id>179</id>
                 <extendedTooltip>
@@ -1979,11 +1944,6 @@
                 </extInfo>
               </searchStringAddition>
               <viewStatusAddition>
-                <visible>true</visible>
-                <enabled>true</enabled>
-                <userVisible>
-                  <common>true</common>
-                </userVisible>
                 <name>ТаблицаСвойствПользователяИБСостояниеПросмотра</name>
                 <id>182</id>
                 <extendedTooltip>
@@ -2018,11 +1978,6 @@
                 </extInfo>
               </viewStatusAddition>
               <searchControlAddition>
-                <visible>true</visible>
-                <enabled>true</enabled>
-                <userVisible>
-                  <common>true</common>
-                </userVisible>
                 <name>ТаблицаСвойствПользователяИБУправлениеПоиском</name>
                 <id>185</id>
                 <extendedTooltip>
@@ -2177,11 +2132,6 @@
                 <name>ТаблицаДанныхВыбор</name>
               </handlers>
               <searchStringAddition>
-                <visible>true</visible>
-                <enabled>true</enabled>
-                <userVisible>
-                  <common>true</common>
-                </userVisible>
                 <name>ТаблицаРолейПользователяИБСтрокаПоиска</name>
                 <id>188</id>
                 <extendedTooltip>
@@ -2215,11 +2165,6 @@
                 </extInfo>
               </searchStringAddition>
               <viewStatusAddition>
-                <visible>true</visible>
-                <enabled>true</enabled>
-                <userVisible>
-                  <common>true</common>
-                </userVisible>
                 <name>ТаблицаРолейПользователяИБСостояниеПросмотра</name>
                 <id>191</id>
                 <extendedTooltip>
@@ -2254,11 +2199,6 @@
                 </extInfo>
               </viewStatusAddition>
               <searchControlAddition>
-                <visible>true</visible>
-                <enabled>true</enabled>
-                <userVisible>
-                  <common>true</common>
-                </userVisible>
                 <name>ТаблицаРолейПользователяИБУправлениеПоиском</name>
                 <id>194</id>
                 <extendedTooltip>

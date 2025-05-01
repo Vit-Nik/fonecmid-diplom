@@ -400,11 +400,6 @@
       <name>УчастникиОбработкаВыбора</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>УчастникиСтрокаПоиска</name>
       <id>21</id>
       <extendedTooltip>
@@ -438,11 +433,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>УчастникиСостояниеПросмотра</name>
       <id>27</id>
       <extendedTooltip>
@@ -477,11 +467,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>УчастникиУправлениеПоиском</name>
       <id>24</id>
       <extendedTooltip>

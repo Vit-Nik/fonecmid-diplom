@@ -150,11 +150,6 @@
       <name>ОтборыПриАктивизацииСтроки</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ОтборыСтрокаПоиска</name>
       <id>32</id>
       <extendedTooltip>
@@ -188,11 +183,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ОтборыСостояниеПросмотра</name>
       <id>35</id>
       <extendedTooltip>
@@ -227,11 +217,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ОтборыУправлениеПоиском</name>
       <id>38</id>
       <extendedTooltip>

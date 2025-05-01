@@ -148,11 +148,6 @@
       <name>УзлыПлановОбменаВыбор</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>УзлыПлановОбменаSearchString</name>
       <id>33</id>
       <extendedTooltip>
@@ -186,11 +181,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>УзлыПлановОбменаViewStatus</name>
       <id>36</id>
       <extendedTooltip>
@@ -225,11 +215,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>УзлыПлановОбменаSearchControl</name>
       <id>39</id>
       <extendedTooltip>

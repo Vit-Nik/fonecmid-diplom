@@ -78,6 +78,10 @@
         <valuesPicture xsi:type="core:PictureRef">
           <picture>CommonPicture.СостоянияРасширенийКонфигурации</picture>
         </valuesPicture>
+        <border xsi:type="core:BorderDef">
+          <style>Single</style>
+          <width>1</width>
+        </border>
         <fileDragMode>AsFileRef</fileDragMode>
       </extInfo>
     </items>
@@ -146,11 +150,6 @@
       <name>СписокПодключенийВыбор</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокПодключенийСтрокаПоиска</name>
       <id>5</id>
       <extendedTooltip>
@@ -184,11 +183,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокПодключенийСостояниеПросмотра</name>
       <id>11</id>
       <extendedTooltip>
@@ -223,11 +217,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокПодключенийУправлениеПоиском</name>
       <id>8</id>
       <extendedTooltip>

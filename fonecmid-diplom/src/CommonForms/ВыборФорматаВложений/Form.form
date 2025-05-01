@@ -143,11 +143,6 @@
         <horizontalAlign>Left</horizontalAlign>
       </autoCommandBar>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ВыбранныеФорматыSearchString</name>
         <id>50</id>
         <extendedTooltip>
@@ -181,11 +176,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ВыбранныеФорматыViewStatus</name>
         <id>53</id>
         <extendedTooltip>
@@ -220,11 +210,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ВыбранныеФорматыSearchControl</name>
         <id>56</id>
         <extendedTooltip>

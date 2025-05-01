@@ -2152,6 +2152,10 @@
                   <autoMaxHeight>true</autoMaxHeight>
                   <horizontalStretch>true</horizontalStretch>
                   <verticalStretch>true</verticalStretch>
+                  <border xsi:type="core:BorderDef">
+                    <style>Single</style>
+                    <width>1</width>
+                  </border>
                 </extInfo>
               </items>
               <items xsi:type="form:FormField">
@@ -2305,6 +2309,10 @@
                 <autoMaxHeight>true</autoMaxHeight>
                 <horizontalStretch>true</horizontalStretch>
                 <verticalStretch>true</verticalStretch>
+                <border xsi:type="core:BorderDef">
+                  <style>Single</style>
+                  <width>1</width>
+                </border>
                 <fileDragMode>AsFileRef</fileDragMode>
               </extInfo>
             </items>
@@ -2409,11 +2417,6 @@
               <name>ОбъектыПослеУдаления</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ЧитаемыеОбъектыСтрокаПоиска</name>
               <id>106</id>
               <extendedTooltip>
@@ -2447,11 +2450,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ЧитаемыеОбъектыСостояниеПросмотра</name>
               <id>109</id>
               <extendedTooltip>
@@ -2486,11 +2484,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ЧитаемыеОбъектыУправлениеПоиском</name>
               <id>112</id>
               <extendedTooltip>
@@ -2959,6 +2952,10 @@
                   <autoMaxHeight>true</autoMaxHeight>
                   <horizontalStretch>true</horizontalStretch>
                   <verticalStretch>true</verticalStretch>
+                  <border xsi:type="core:BorderDef">
+                    <style>Single</style>
+                    <width>1</width>
+                  </border>
                 </extInfo>
               </items>
               <items xsi:type="form:FormField">
@@ -3210,11 +3207,6 @@
               <name>ОбъектыПослеУдаления</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ИзменяемыеОбъектыСтрокаПоиска</name>
               <id>147</id>
               <extendedTooltip>
@@ -3248,11 +3240,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ИзменяемыеОбъектыСостояниеПросмотра</name>
               <id>150</id>
               <extendedTooltip>
@@ -3287,11 +3274,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ИзменяемыеОбъектыУправлениеПоиском</name>
               <id>153</id>
               <extendedTooltip>
@@ -3642,6 +3624,10 @@
               <autoMaxHeight>true</autoMaxHeight>
               <horizontalStretch>true</horizontalStretch>
               <verticalStretch>true</verticalStretch>
+              <border xsi:type="core:BorderDef">
+                <style>Single</style>
+                <width>1</width>
+              </border>
             </extInfo>
           </items>
           <items xsi:type="form:FormField">
@@ -3765,11 +3751,6 @@
           <name>ОбъектыПослеУдаления</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>БлокируемыеОбъектыСтрокаПоиска</name>
           <id>185</id>
           <extendedTooltip>
@@ -3803,11 +3784,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>БлокируемыеОбъектыСостояниеПросмотра</name>
           <id>188</id>
           <extendedTooltip>
@@ -3842,11 +3818,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>БлокируемыеОбъектыУправлениеПоиском</name>
           <id>191</id>
           <extendedTooltip>
@@ -4876,11 +4847,6 @@
           <name>ПриоритетыВыполненияПриАктивизацииСтроки</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПриоритетыВыполненияСтрокаПоиска</name>
           <id>673</id>
           <extendedTooltip>
@@ -4914,11 +4880,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПриоритетыВыполненияСостояниеПросмотра</name>
           <id>676</id>
           <extendedTooltip>
@@ -4953,11 +4914,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПриоритетыВыполненияУправлениеПоиском</name>
           <id>679</id>
           <extendedTooltip>
@@ -5603,11 +5559,6 @@
           <horizontalAlign>Left</horizontalAlign>
         </autoCommandBar>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПересеченияСтрокаПоиска</name>
           <id>734</id>
           <extendedTooltip>
@@ -5641,11 +5592,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПересеченияСостояниеПросмотра</name>
           <id>737</id>
           <extendedTooltip>
@@ -5680,11 +5626,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПересеченияУправлениеПоиском</name>
           <id>740</id>
           <extendedTooltip>

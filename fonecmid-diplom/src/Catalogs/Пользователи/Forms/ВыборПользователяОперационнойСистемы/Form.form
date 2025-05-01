@@ -359,11 +359,6 @@
               <name>ТаблицаДоменовПриАктивизацииСтроки</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаДоменовSearchString</name>
               <id>53</id>
               <extendedTooltip>
@@ -397,11 +392,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаДоменовViewStatus</name>
               <id>56</id>
               <extendedTooltip>
@@ -436,11 +426,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаДоменовSearchControl</name>
               <id>59</id>
               <extendedTooltip>
@@ -798,11 +783,6 @@
               <name>ТаблицаПользователейДоменаВыбор</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаПользователейДоменаSearchString</name>
               <id>62</id>
               <extendedTooltip>
@@ -836,11 +816,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаПользователейДоменаViewStatus</name>
               <id>65</id>
               <extendedTooltip>
@@ -875,11 +850,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаПользователейДоменаSearchControl</name>
               <id>68</id>
               <extendedTooltip>

@@ -483,6 +483,10 @@
         <valuesPicture xsi:type="core:PictureRef">
           <picture>CommonPicture.ВариантыОтчетовДоступныеВсемПользователям</picture>
         </valuesPicture>
+        <border xsi:type="core:BorderDef">
+          <style>Single</style>
+          <width>1</width>
+        </border>
       </extInfo>
     </items>
     <items xsi:type="form:FormField">
@@ -585,6 +589,10 @@
         <valuesPicture xsi:type="core:PictureRef">
           <picture>CommonPicture.НазначенияВариантовОтчетов</picture>
         </valuesPicture>
+        <border xsi:type="core:BorderDef">
+          <style>Single</style>
+          <width>1</width>
+        </border>
         <fileDragMode>AsFileRef</fileDragMode>
       </extInfo>
     </items>
@@ -624,11 +632,6 @@
       <name>ДеревоВариантовОтчетаПередНачаломИзменения</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ДеревоВариантовОтчетаSearchString</name>
       <id>47</id>
       <extendedTooltip>
@@ -662,11 +665,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ДеревоВариантовОтчетаViewStatus</name>
       <id>50</id>
       <extendedTooltip>
@@ -701,11 +699,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ДеревоВариантовОтчетаSearchControl</name>
       <id>53</id>
       <extendedTooltip>

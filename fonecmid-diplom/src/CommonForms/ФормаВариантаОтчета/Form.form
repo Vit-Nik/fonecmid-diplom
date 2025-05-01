@@ -36,11 +36,6 @@
       <name>КомпоновщикНастроекНастройкиПриАктивизацииПоля</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>КомпоновщикНастроекНастройкиСтрокаПоиска</name>
       <id>201</id>
       <extendedTooltip>
@@ -74,11 +69,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>КомпоновщикНастроекНастройкиСостояниеПросмотра</name>
       <id>204</id>
       <extendedTooltip>
@@ -113,11 +103,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>КомпоновщикНастроекНастройкиУправлениеПоиском</name>
       <id>207</id>
       <extendedTooltip>
@@ -233,11 +218,6 @@
           <autoFill>true</autoFill>
         </autoCommandBar>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>КомпоновщикНастроекНастройкиПараметрыДанныхСтрокаПоиска</name>
           <id>210</id>
           <extendedTooltip>
@@ -271,11 +251,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>КомпоновщикНастроекНастройкиПараметрыДанныхСостояниеПросмотра</name>
           <id>213</id>
           <extendedTooltip>
@@ -310,11 +285,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>КомпоновщикНастроекНастройкиПараметрыДанныхУправлениеПоиском</name>
           <id>216</id>
           <extendedTooltip>
@@ -458,11 +428,6 @@
           <autoFill>true</autoFill>
         </autoCommandBar>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>КомпоновщикНастроекНастройкиПользовательскиеПоляСтрокаПоиска</name>
           <id>219</id>
           <extendedTooltip>
@@ -496,11 +461,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>КомпоновщикНастроекНастройкиПользовательскиеПоляСостояниеПросмотра</name>
           <id>222</id>
           <extendedTooltip>
@@ -535,11 +495,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>КомпоновщикНастроекНастройкиПользовательскиеПоляУправлениеПоиском</name>
           <id>225</id>
           <extendedTooltip>
@@ -689,11 +644,6 @@
               <autoFill>true</autoFill>
             </autoCommandBar>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПоляГруппировкиДоступныеПоляПолейГруппировокСтрокаПоиска</name>
               <id>228</id>
               <extendedTooltip>
@@ -727,11 +677,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПоляГруппировкиДоступныеПоляПолейГруппировокСостояниеПросмотра</name>
               <id>231</id>
               <extendedTooltip>
@@ -766,11 +711,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПоляГруппировкиДоступныеПоляПолейГруппировокУправлениеПоиском</name>
               <id>234</id>
               <extendedTooltip>
@@ -879,11 +819,6 @@
               <autoFill>true</autoFill>
             </autoCommandBar>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПоляГруппировкиСтрокаПоиска</name>
               <id>237</id>
               <extendedTooltip>
@@ -917,11 +852,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПоляГруппировкиСостояниеПросмотра</name>
               <id>240</id>
               <extendedTooltip>
@@ -956,11 +886,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПоляГруппировкиУправлениеПоиском</name>
               <id>243</id>
               <extendedTooltip>
@@ -1300,11 +1225,6 @@
               <autoFill>true</autoFill>
             </autoCommandBar>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиВыборДоступныеПоляВыбораСтрокаПоиска</name>
               <id>246</id>
               <extendedTooltip>
@@ -1338,11 +1258,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиВыборДоступныеПоляВыбораСостояниеПросмотра</name>
               <id>249</id>
               <extendedTooltip>
@@ -1377,11 +1292,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиВыборДоступныеПоляВыбораУправлениеПоиском</name>
               <id>252</id>
               <extendedTooltip>
@@ -1489,11 +1399,6 @@
               <autoFill>true</autoFill>
             </autoCommandBar>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиВыборСтрокаПоиска</name>
               <id>255</id>
               <extendedTooltip>
@@ -1527,11 +1432,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиВыборСостояниеПросмотра</name>
               <id>258</id>
               <extendedTooltip>
@@ -1566,11 +1466,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиВыборУправлениеПоиском</name>
               <id>261</id>
               <extendedTooltip>
@@ -2085,11 +1980,6 @@
               <autoFill>true</autoFill>
             </autoCommandBar>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиОтборДоступныеПоляОтбораСтрокаПоиска</name>
               <id>264</id>
               <extendedTooltip>
@@ -2123,11 +2013,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиОтборДоступныеПоляОтбораСостояниеПросмотра</name>
               <id>267</id>
               <extendedTooltip>
@@ -2162,11 +2047,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиОтборДоступныеПоляОтбораУправлениеПоиском</name>
               <id>270</id>
               <extendedTooltip>
@@ -2274,11 +2154,6 @@
               <autoFill>true</autoFill>
             </autoCommandBar>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиОтборСтрокаПоиска</name>
               <id>273</id>
               <extendedTooltip>
@@ -2312,11 +2187,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиОтборСостояниеПросмотра</name>
               <id>276</id>
               <extendedTooltip>
@@ -2351,11 +2221,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиОтборУправлениеПоиском</name>
               <id>279</id>
               <extendedTooltip>
@@ -2872,11 +2737,6 @@
               <autoFill>true</autoFill>
             </autoCommandBar>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПорядокДоступныеПоляПорядкаСтрокаПоиска</name>
               <id>282</id>
               <extendedTooltip>
@@ -2910,11 +2770,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПорядокДоступныеПоляПорядкаСостояниеПросмотра</name>
               <id>285</id>
               <extendedTooltip>
@@ -2949,11 +2804,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПорядокДоступныеПоляПорядкаУправлениеПоиском</name>
               <id>288</id>
               <extendedTooltip>
@@ -3061,11 +2911,6 @@
               <autoFill>true</autoFill>
             </autoCommandBar>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПорядокСтрокаПоиска</name>
               <id>291</id>
               <extendedTooltip>
@@ -3099,11 +2944,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПорядокСостояниеПросмотра</name>
               <id>294</id>
               <extendedTooltip>
@@ -3138,11 +2978,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПорядокУправлениеПоиском</name>
               <id>297</id>
               <extendedTooltip>
@@ -3655,11 +3490,6 @@
               <autoFill>true</autoFill>
             </autoCommandBar>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиУсловноеОформлениеСтрокаПоиска</name>
               <id>300</id>
               <extendedTooltip>
@@ -3693,11 +3523,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиУсловноеОформлениеСостояниеПросмотра</name>
               <id>303</id>
               <extendedTooltip>
@@ -3732,11 +3557,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиУсловноеОформлениеУправлениеПоиском</name>
               <id>306</id>
               <extendedTooltip>
@@ -4253,11 +4073,6 @@
               <name>КомпоновщикНастроекНастройкиПараметрыВыводаПриИзменении</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПараметрыВыводаСтрокаПоиска</name>
               <id>309</id>
               <extendedTooltip>
@@ -4291,11 +4106,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПараметрыВыводаСостояниеПросмотра</name>
               <id>312</id>
               <extendedTooltip>
@@ -4330,11 +4140,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>КомпоновщикНастроекНастройкиПараметрыВыводаУправлениеПоиском</name>
               <id>315</id>
               <extendedTooltip>

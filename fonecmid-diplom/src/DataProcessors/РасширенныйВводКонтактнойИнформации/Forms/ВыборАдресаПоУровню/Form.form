@@ -293,11 +293,6 @@
       <name>ВариантыАдресаВыборЗначения</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ВариантыАдресаСтрокаПоиска</name>
       <id>51</id>
       <extendedTooltip>
@@ -331,11 +326,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ВариантыАдресаСостояниеПросмотра</name>
       <id>54</id>
       <extendedTooltip>
@@ -370,11 +360,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ВариантыАдресаУправлениеПоиском</name>
       <id>57</id>
       <extendedTooltip>

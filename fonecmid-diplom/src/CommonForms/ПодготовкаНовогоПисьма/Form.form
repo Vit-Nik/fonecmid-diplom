@@ -341,11 +341,6 @@
       <name>ПолучателиПередНачаломИзменения</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ПолучателиSearchString</name>
       <id>88</id>
       <extendedTooltip>
@@ -379,11 +374,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ПолучателиViewStatus</name>
       <id>91</id>
       <extendedTooltip>
@@ -418,11 +408,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ПолучателиSearchControl</name>
       <id>94</id>
       <extendedTooltip>
@@ -761,11 +746,6 @@
         <horizontalAlign>Left</horizontalAlign>
       </autoCommandBar>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ВыбранныеФорматыСохраненияSearchString</name>
         <id>97</id>
         <extendedTooltip>
@@ -799,11 +779,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ВыбранныеФорматыСохраненияViewStatus</name>
         <id>100</id>
         <extendedTooltip>
@@ -838,11 +813,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ВыбранныеФорматыСохраненияSearchControl</name>
         <id>103</id>
         <extendedTooltip>

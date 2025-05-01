@@ -161,11 +161,6 @@
         <name>ВсеПользователиПеретаскивание</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ВсеПользователиСтрокаПоиска</name>
         <id>48</id>
         <extendedTooltip>
@@ -199,11 +194,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ВсеПользователиСостояниеПросмотра</name>
         <id>51</id>
         <extendedTooltip>
@@ -238,11 +228,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ВсеПользователиУправлениеПоиском</name>
         <id>54</id>
         <extendedTooltip>
@@ -640,11 +625,6 @@
         <name>ПользователиКороткогоСпискаПеретаскивание</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ПользователиКороткогоСпискаСтрокаПоиска</name>
         <id>57</id>
         <extendedTooltip>
@@ -678,11 +658,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ПользователиКороткогоСпискаСостояниеПросмотра</name>
         <id>60</id>
         <extendedTooltip>
@@ -717,11 +692,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ПользователиКороткогоСпискаУправлениеПоиском</name>
         <id>63</id>
         <extendedTooltip>

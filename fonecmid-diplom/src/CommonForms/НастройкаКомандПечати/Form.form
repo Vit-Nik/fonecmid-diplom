@@ -265,11 +265,6 @@
       <name>КомандыПечатиВыбор</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>КомандыПечатиСтрокаПоиска</name>
       <id>23</id>
       <extendedTooltip>
@@ -303,11 +298,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>КомандыПечатиСостояниеПросмотра</name>
       <id>26</id>
       <extendedTooltip>
@@ -342,11 +332,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>КомандыПечатиУправлениеПоиском</name>
       <id>29</id>
       <extendedTooltip>

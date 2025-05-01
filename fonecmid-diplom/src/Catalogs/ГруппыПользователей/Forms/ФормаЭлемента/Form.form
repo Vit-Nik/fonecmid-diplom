@@ -672,11 +672,6 @@
           <name>СоставПриИзменении</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СоставСтрокаПоиска</name>
           <id>108</id>
           <extendedTooltip>
@@ -710,11 +705,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СоставСостояниеПросмотра</name>
           <id>111</id>
           <extendedTooltip>
@@ -749,11 +739,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СоставУправлениеПоиском</name>
           <id>114</id>
           <extendedTooltip>

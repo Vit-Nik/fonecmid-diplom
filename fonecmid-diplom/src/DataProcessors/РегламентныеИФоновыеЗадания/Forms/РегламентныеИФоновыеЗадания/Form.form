@@ -1118,11 +1118,6 @@
               <name>ТаблицаРегламентныеЗаданияПередНачаломИзменения</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаРегламентныеЗаданияСтрокаПоиска</name>
               <id>246</id>
               <extendedTooltip>
@@ -1156,11 +1151,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаРегламентныеЗаданияСостояниеПросмотра</name>
               <id>249</id>
               <extendedTooltip>
@@ -1195,11 +1185,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаРегламентныеЗаданияУправлениеПоиском</name>
               <id>252</id>
               <extendedTooltip>
@@ -2930,11 +2915,6 @@
               <name>ТаблицаФоновыеЗаданияВыбор</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаФоновыеЗаданияСтрокаПоиска</name>
               <id>255</id>
               <extendedTooltip>
@@ -2968,11 +2948,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаФоновыеЗаданияСостояниеПросмотра</name>
               <id>258</id>
               <extendedTooltip>
@@ -3007,11 +2982,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ТаблицаФоновыеЗаданияУправлениеПоиском</name>
               <id>261</id>
               <extendedTooltip>

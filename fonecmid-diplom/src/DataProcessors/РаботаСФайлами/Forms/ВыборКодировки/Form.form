@@ -85,11 +85,6 @@
       <name>СписокКодировокВыбор</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокКодировокSearchString</name>
       <id>14</id>
       <extendedTooltip>
@@ -123,11 +118,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокКодировокViewStatus</name>
       <id>17</id>
       <extendedTooltip>
@@ -162,11 +152,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокКодировокSearchControl</name>
       <id>20</id>
       <extendedTooltip>

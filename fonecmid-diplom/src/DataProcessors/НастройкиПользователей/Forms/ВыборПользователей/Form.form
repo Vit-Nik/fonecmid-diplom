@@ -467,6 +467,10 @@
             <autoMaxHeight>true</autoMaxHeight>
             <horizontalStretch>true</horizontalStretch>
             <verticalStretch>true</verticalStretch>
+            <border xsi:type="core:BorderDef">
+              <style>Single</style>
+              <width>1</width>
+            </border>
           </extInfo>
         </items>
         <visible>true</visible>
@@ -518,11 +522,6 @@
         <name>ГруппыПользователейПриАктивизацииСтроки</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ГруппыПользователейSearchString</name>
         <id>77</id>
         <extendedTooltip>
@@ -556,11 +555,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ГруппыПользователейViewStatus</name>
         <id>80</id>
         <extendedTooltip>
@@ -595,11 +589,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ГруппыПользователейSearchControl</name>
         <id>83</id>
         <extendedTooltip>
@@ -1040,11 +1029,6 @@
         <name>СписокПользователейВыбор</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>СписокПользователейSearchString</name>
         <id>86</id>
         <extendedTooltip>
@@ -1078,11 +1062,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>СписокПользователейViewStatus</name>
         <id>89</id>
         <extendedTooltip>
@@ -1117,11 +1096,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>СписокПользователейSearchControl</name>
         <id>92</id>
         <extendedTooltip>

@@ -327,11 +327,6 @@
       <name>ЗависимостиРеквизитовПередНачаломИзменения</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ЗависимостиРеквизитовСтрокаПоиска</name>
       <id>9</id>
       <extendedTooltip>
@@ -365,11 +360,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ЗависимостиРеквизитовСостояниеПросмотра</name>
       <id>12</id>
       <extendedTooltip>
@@ -404,11 +394,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ЗависимостиРеквизитовУправлениеПоиском</name>
       <id>15</id>
       <extendedTooltip>

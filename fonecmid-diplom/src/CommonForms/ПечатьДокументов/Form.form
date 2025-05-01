@@ -1965,11 +1965,6 @@
         <name>НастройкиПечатныхФормПриИзменении</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>НастройкиПечатныхФормСтрокаПоиска</name>
         <id>200</id>
         <extendedTooltip>
@@ -2003,11 +1998,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>НастройкиПечатныхФормСостояниеПросмотра</name>
         <id>203</id>
         <extendedTooltip>
@@ -2042,11 +2032,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>НастройкиПечатныхФормУправлениеПоиском</name>
         <id>206</id>
         <extendedTooltip>

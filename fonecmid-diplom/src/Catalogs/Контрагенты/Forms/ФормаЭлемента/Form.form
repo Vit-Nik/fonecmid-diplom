@@ -357,11 +357,6 @@
         <name>ПриобретеннаяНоменклатураОбработкаВыбора</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ПриобретеннаяНоменклатураСтрокаПоиска</name>
         <id>49</id>
         <extendedTooltip>
@@ -395,11 +390,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ПриобретеннаяНоменклатураСостояниеПросмотра</name>
         <id>52</id>
         <extendedTooltip>
@@ -434,11 +424,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ПриобретеннаяНоменклатураУправлениеПоиском</name>
         <id>55</id>
         <extendedTooltip>

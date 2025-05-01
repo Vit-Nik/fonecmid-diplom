@@ -332,11 +332,6 @@
           <name>ПрофилиПриАктивизацииСтроки</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПрофилиСтрокаПоиска</name>
           <id>112</id>
           <extendedTooltip>
@@ -370,11 +365,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПрофилиСостояниеПросмотра</name>
           <id>115</id>
           <extendedTooltip>
@@ -409,11 +399,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПрофилиУправлениеПоиском</name>
           <id>118</id>
           <extendedTooltip>
@@ -707,11 +692,6 @@
           <name>ВидыДоступаПриАктивизацииЯчейки</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ВидыДоступаСтрокаПоиска</name>
           <id>121</id>
           <extendedTooltip>
@@ -745,11 +725,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ВидыДоступаСостояниеПросмотра</name>
           <id>124</id>
           <extendedTooltip>
@@ -784,11 +759,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ВидыДоступаУправлениеПоиском</name>
           <id>127</id>
           <extendedTooltip>
@@ -1187,11 +1157,6 @@
             <name>ЗначенияДоступаПриИзменении</name>
           </handlers>
           <searchStringAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ЗначенияДоступаСтрокаПоиска</name>
             <id>130</id>
             <extendedTooltip>
@@ -1225,11 +1190,6 @@
             </extInfo>
           </searchStringAddition>
           <viewStatusAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ЗначенияДоступаСостояниеПросмотра</name>
             <id>133</id>
             <extendedTooltip>
@@ -1264,11 +1224,6 @@
             </extInfo>
           </viewStatusAddition>
           <searchControlAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ЗначенияДоступаУправлениеПоиском</name>
             <id>136</id>
             <extendedTooltip>

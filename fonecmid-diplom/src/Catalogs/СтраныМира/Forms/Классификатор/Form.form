@@ -651,11 +651,6 @@
       <name>КлассификаторПередНачаломИзменения</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>КлассификаторSearchString</name>
       <id>69</id>
       <extendedTooltip>
@@ -689,11 +684,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>КлассификаторViewStatus</name>
       <id>72</id>
       <extendedTooltip>
@@ -728,11 +718,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>КлассификаторSearchControl</name>
       <id>75</id>
       <extendedTooltip>

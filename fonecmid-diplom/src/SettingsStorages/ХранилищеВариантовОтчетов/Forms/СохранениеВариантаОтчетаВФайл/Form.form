@@ -294,11 +294,6 @@
           <name>ПользовательскиеНастройкиПриИзменении</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПользовательскиеНастройкиСтрокаПоиска</name>
           <id>8</id>
           <extendedTooltip>
@@ -332,11 +327,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПользовательскиеНастройкиСостояниеПросмотра</name>
           <id>11</id>
           <extendedTooltip>
@@ -371,11 +361,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПользовательскиеНастройкиУправлениеПоиском</name>
           <id>14</id>
           <extendedTooltip>
@@ -697,11 +682,6 @@
           <name>ОписаниеВариантовОтчетовПослеУдаления</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ОписаниеВариантовОтчетовСтрокаПоиска</name>
           <id>42</id>
           <extendedTooltip>
@@ -735,11 +715,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ОписаниеВариантовОтчетовСостояниеПросмотра</name>
           <id>45</id>
           <extendedTooltip>
@@ -774,11 +749,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ОписаниеВариантовОтчетовУправлениеПоиском</name>
           <id>48</id>
           <extendedTooltip>

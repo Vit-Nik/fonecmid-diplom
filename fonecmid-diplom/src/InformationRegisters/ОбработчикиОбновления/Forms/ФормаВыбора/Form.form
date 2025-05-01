@@ -283,11 +283,6 @@
       <name>СписокОбработчиковПередНачаломИзменения</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокОбработчиковСтрокаПоиска</name>
       <id>35</id>
       <extendedTooltip>
@@ -321,11 +316,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокОбработчиковСостояниеПросмотра</name>
       <id>38</id>
       <extendedTooltip>
@@ -360,11 +350,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокОбработчиковУправлениеПоиском</name>
       <id>41</id>
       <extendedTooltip>

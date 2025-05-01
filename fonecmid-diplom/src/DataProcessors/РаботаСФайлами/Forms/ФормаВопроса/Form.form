@@ -134,11 +134,6 @@
       <name>ФайлыВыбор</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ФайлыСтрокаПоиска</name>
       <id>25</id>
       <extendedTooltip>
@@ -172,11 +167,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ФайлыСостояниеПросмотра</name>
       <id>28</id>
       <extendedTooltip>
@@ -211,11 +201,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ФайлыУправлениеПоиском</name>
       <id>31</id>
       <extendedTooltip>

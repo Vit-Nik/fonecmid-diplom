@@ -1117,11 +1117,6 @@
       <name>ПользователиИБПриАктивизацииСтроки</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ПользователиИБСтрокаПоиска</name>
       <id>122</id>
       <extendedTooltip>
@@ -1155,11 +1150,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ПользователиИБСостояниеПросмотра</name>
       <id>125</id>
       <extendedTooltip>
@@ -1194,11 +1184,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ПользователиИБУправлениеПоиском</name>
       <id>128</id>
       <extendedTooltip>

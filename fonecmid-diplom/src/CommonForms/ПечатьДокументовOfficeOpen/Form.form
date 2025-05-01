@@ -1310,6 +1310,10 @@
             <valuesPicture xsi:type="core:PictureRef">
               <picture>CommonPicture.ТипыМакетов</picture>
             </valuesPicture>
+            <border xsi:type="core:BorderDef">
+              <style>Single</style>
+              <width>1</width>
+            </border>
             <fileDragMode>AsFileRef</fileDragMode>
           </extInfo>
         </items>
@@ -1413,11 +1417,6 @@
         <name>ПечатныеФормыВыбор</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ПечатныеФормыСтрокаПоиска</name>
         <id>74</id>
         <extendedTooltip>
@@ -1451,11 +1450,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ПечатныеФормыСостояниеПросмотра</name>
         <id>80</id>
         <extendedTooltip>
@@ -1490,11 +1484,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ПечатныеФормыУправлениеПоиском</name>
         <id>77</id>
         <extendedTooltip>

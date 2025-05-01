@@ -482,11 +482,6 @@
       <name>СписокКолонокПриАктивизацииСтроки</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокКолонокСтрокаПоиска</name>
       <id>49</id>
       <extendedTooltip>
@@ -520,11 +515,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокКолонокСостояниеПросмотра</name>
       <id>52</id>
       <extendedTooltip>
@@ -559,11 +549,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокКолонокУправлениеПоиском</name>
       <id>55</id>
       <extendedTooltip>

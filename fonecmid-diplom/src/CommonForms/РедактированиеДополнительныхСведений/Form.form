@@ -316,11 +316,6 @@
       <name>ТаблицаЗначенийСвойствПриИзменении</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ТаблицаЗначенийСвойствСтрокаПоиска</name>
       <id>30</id>
       <extendedTooltip>
@@ -354,11 +349,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ТаблицаЗначенийСвойствСостояниеПросмотра</name>
       <id>33</id>
       <extendedTooltip>
@@ -393,11 +383,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ТаблицаЗначенийСвойствУправлениеПоиском</name>
       <id>36</id>
       <extendedTooltip>

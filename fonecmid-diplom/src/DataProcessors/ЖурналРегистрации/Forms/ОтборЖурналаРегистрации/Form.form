@@ -610,11 +610,6 @@
           <horizontalAlign>Right</horizontalAlign>
         </autoCommandBar>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ВажностьSearchString</name>
           <id>267</id>
           <extendedTooltip>
@@ -648,11 +643,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ВажностьViewStatus</name>
           <id>270</id>
           <extendedTooltip>
@@ -687,11 +677,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ВажностьSearchControl</name>
           <id>273</id>
           <extendedTooltip>
@@ -1758,11 +1743,6 @@
           <horizontalAlign>Right</horizontalAlign>
         </autoCommandBar>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СтатусТранзакцииSearchString</name>
           <id>276</id>
           <extendedTooltip>
@@ -1796,11 +1776,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СтатусТранзакцииViewStatus</name>
           <id>279</id>
           <extendedTooltip>
@@ -1835,11 +1810,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СтатусТранзакцииSearchControl</name>
           <id>282</id>
           <extendedTooltip>

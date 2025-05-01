@@ -230,11 +230,6 @@
       <name>ПравилаПоискаВыбор</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ПравилаПоискаСтрокаПоиска</name>
       <id>37</id>
       <extendedTooltip>
@@ -268,11 +263,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ПравилаПоискаСостояниеПросмотра</name>
       <id>40</id>
       <extendedTooltip>
@@ -307,11 +297,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ПравилаПоискаУправлениеПоиском</name>
       <id>43</id>
       <extendedTooltip>

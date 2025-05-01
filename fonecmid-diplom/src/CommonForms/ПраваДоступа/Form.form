@@ -375,11 +375,6 @@
           <name>ГруппыДоступаПриАктивизацииСтроки</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ГруппыДоступаSearchString</name>
           <id>138</id>
           <extendedTooltip>
@@ -413,11 +408,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ГруппыДоступаViewStatus</name>
           <id>141</id>
           <extendedTooltip>
@@ -452,11 +442,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ГруппыДоступаSearchControl</name>
           <id>144</id>
           <extendedTooltip>
@@ -1057,11 +1042,6 @@
           <horizontalAlign>Left</horizontalAlign>
         </autoCommandBar>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>РолиSearchString</name>
           <id>147</id>
           <extendedTooltip>
@@ -1095,11 +1075,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>РолиViewStatus</name>
           <id>150</id>
           <extendedTooltip>
@@ -1134,11 +1109,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>РолиSearchControl</name>
           <id>153</id>
           <extendedTooltip>

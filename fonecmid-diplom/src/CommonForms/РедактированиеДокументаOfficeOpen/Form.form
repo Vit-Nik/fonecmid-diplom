@@ -945,11 +945,6 @@
               <autoFill>true</autoFill>
             </autoCommandBar>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ДоступныеПоляСтрокаПоиска</name>
               <id>66</id>
               <extendedTooltip>
@@ -983,11 +978,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ДоступныеПоляСостояниеПросмотра</name>
               <id>72</id>
               <extendedTooltip>
@@ -1022,11 +1012,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>ДоступныеПоляУправлениеПоиском</name>
               <id>69</id>
               <extendedTooltip>
@@ -1190,11 +1175,6 @@
               <autoFill>true</autoFill>
             </autoCommandBar>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>СписокОператоровСтрокаПоиска</name>
               <id>82</id>
               <extendedTooltip>
@@ -1228,11 +1208,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>СписокОператоровСостояниеПросмотра</name>
               <id>88</id>
               <extendedTooltip>
@@ -1267,11 +1242,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>СписокОператоровУправлениеПоиском</name>
               <id>85</id>
               <extendedTooltip>

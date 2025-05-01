@@ -1565,11 +1565,6 @@
               <name>СписокИтоговПриАктивизацииСтроки</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>СписокИтоговСтрокаПоиска</name>
               <id>424</id>
               <extendedTooltip>
@@ -1603,11 +1598,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>СписокИтоговСостояниеПросмотра</name>
               <id>427</id>
               <extendedTooltip>
@@ -1642,11 +1632,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>СписокИтоговУправлениеПоиском</name>
               <id>430</id>
               <extendedTooltip>
@@ -2814,11 +2799,6 @@
               <name>АгрегатыПоРегистрамПриАктивизацииСтроки</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>АгрегатыПоРегистрамСтрокаПоиска</name>
               <id>433</id>
               <extendedTooltip>
@@ -2852,11 +2832,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>АгрегатыПоРегистрамСостояниеПросмотра</name>
               <id>436</id>
               <extendedTooltip>
@@ -2891,11 +2866,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>АгрегатыПоРегистрамУправлениеПоиском</name>
               <id>439</id>
               <extendedTooltip>
@@ -3470,11 +3440,6 @@
               <horizontalAlign>Left</horizontalAlign>
             </autoCommandBar>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>СписокАгрегатовСтрокаПоиска</name>
               <id>442</id>
               <extendedTooltip>
@@ -3508,11 +3473,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>СписокАгрегатовСостояниеПросмотра</name>
               <id>445</id>
               <extendedTooltip>
@@ -3547,11 +3507,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>СписокАгрегатовУправлениеПоиском</name>
               <id>448</id>
               <extendedTooltip>

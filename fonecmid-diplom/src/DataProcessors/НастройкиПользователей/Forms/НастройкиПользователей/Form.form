@@ -936,6 +936,10 @@
                       <autoMaxHeight>true</autoMaxHeight>
                       <horizontalStretch>true</horizontalStretch>
                       <verticalStretch>true</verticalStretch>
+                      <border xsi:type="core:BorderDef">
+                        <style>Single</style>
+                        <width>1</width>
+                      </border>
                     </extInfo>
                   </items>
                   <items xsi:type="form:FormField">
@@ -1038,11 +1042,6 @@
                   <name>НастройкиПередУдалением</name>
                 </handlers>
                 <searchStringAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>ВнешнийВидСтрокаПоиска</name>
                   <id>184</id>
                   <extendedTooltip>
@@ -1076,11 +1075,6 @@
                   </extInfo>
                 </searchStringAddition>
                 <viewStatusAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>ВнешнийВидСостояниеПросмотра</name>
                   <id>187</id>
                   <extendedTooltip>
@@ -1115,11 +1109,6 @@
                   </extInfo>
                 </viewStatusAddition>
                 <searchControlAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>ВнешнийВидУправлениеПоиском</name>
                   <id>190</id>
                   <extendedTooltip>
@@ -1522,6 +1511,10 @@
                       <autoMaxHeight>true</autoMaxHeight>
                       <horizontalStretch>true</horizontalStretch>
                       <verticalStretch>true</verticalStretch>
+                      <border xsi:type="core:BorderDef">
+                        <style>Single</style>
+                        <width>1</width>
+                      </border>
                     </extInfo>
                   </items>
                   <items xsi:type="form:FormField">
@@ -1624,11 +1617,6 @@
                   <name>НастройкиПередУдалением</name>
                 </handlers>
                 <searchStringAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>НастройкиОтчетовДеревоСтрокаПоиска</name>
                   <id>193</id>
                   <extendedTooltip>
@@ -1662,11 +1650,6 @@
                   </extInfo>
                 </searchStringAddition>
                 <viewStatusAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>НастройкиОтчетовДеревоСостояниеПросмотра</name>
                   <id>196</id>
                   <extendedTooltip>
@@ -1701,11 +1684,6 @@
                   </extInfo>
                 </viewStatusAddition>
                 <searchControlAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>НастройкиОтчетовДеревоУправлениеПоиском</name>
                   <id>199</id>
                   <extendedTooltip>
@@ -2108,6 +2086,10 @@
                       <autoMaxHeight>true</autoMaxHeight>
                       <horizontalStretch>true</horizontalStretch>
                       <verticalStretch>true</verticalStretch>
+                      <border xsi:type="core:BorderDef">
+                        <style>Single</style>
+                        <width>1</width>
+                      </border>
                     </extInfo>
                   </items>
                   <items xsi:type="form:FormField">
@@ -2209,11 +2191,6 @@
                   <name>НастройкиПередУдалением</name>
                 </handlers>
                 <searchStringAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>ПрочиеНастройкиСтрокаПоиска</name>
                   <id>202</id>
                   <extendedTooltip>
@@ -2247,11 +2224,6 @@
                   </extInfo>
                 </searchStringAddition>
                 <viewStatusAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>ПрочиеНастройкиСостояниеПросмотра</name>
                   <id>205</id>
                   <extendedTooltip>
@@ -2286,11 +2258,6 @@
                   </extInfo>
                 </viewStatusAddition>
                 <searchControlAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>ПрочиеНастройкиУправлениеПоиском</name>
                   <id>208</id>
                   <extendedTooltip>

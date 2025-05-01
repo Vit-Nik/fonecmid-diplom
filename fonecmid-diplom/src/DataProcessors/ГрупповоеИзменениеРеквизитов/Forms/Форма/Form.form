@@ -523,11 +523,6 @@
                   <name>Подключаемый_ПередНачаломИзменения</name>
                 </handlers>
                 <searchStringAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>РеквизитыОбъектаСтрокаПоиска</name>
                   <id>240</id>
                   <extendedTooltip>
@@ -561,11 +556,6 @@
                   </extInfo>
                 </searchStringAddition>
                 <viewStatusAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>РеквизитыОбъектаСостояниеПросмотра</name>
                   <id>243</id>
                   <extendedTooltip>
@@ -600,11 +590,6 @@
                   </extInfo>
                 </viewStatusAddition>
                 <searchControlAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>РеквизитыОбъектаУправлениеПоиском</name>
                   <id>246</id>
                   <extendedTooltip>
@@ -1373,11 +1358,6 @@
                   <name>РеквизитыОбъекта1НачалоПеретаскивания</name>
                 </handlers>
                 <searchStringAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>РеквизитыОбъектаАлгоритмСтрокаПоиска</name>
                   <id>319</id>
                   <extendedTooltip>
@@ -1411,11 +1391,6 @@
                   </extInfo>
                 </searchStringAddition>
                 <viewStatusAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>РеквизитыОбъектаАлгоритмСостояниеПросмотра</name>
                   <id>322</id>
                   <extendedTooltip>
@@ -1450,11 +1425,6 @@
                   </extInfo>
                 </viewStatusAddition>
                 <searchControlAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>РеквизитыОбъектаАлгоритмУправлениеПоиском</name>
                   <id>325</id>
                   <extendedTooltip>
@@ -2358,11 +2328,6 @@
             <name>ОбъектыКоторыеНеУдалосьИзменитьПередНачаломИзменения</name>
           </handlers>
           <searchStringAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ОбъектыКоторыеНеУдалосьИзменитьСтрокаПоиска</name>
             <id>249</id>
             <extendedTooltip>
@@ -2396,11 +2361,6 @@
             </extInfo>
           </searchStringAddition>
           <viewStatusAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ОбъектыКоторыеНеУдалосьИзменитьСостояниеПросмотра</name>
             <id>252</id>
             <extendedTooltip>
@@ -2435,11 +2395,6 @@
             </extInfo>
           </viewStatusAddition>
           <searchControlAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ОбъектыКоторыеНеУдалосьИзменитьУправлениеПоиском</name>
             <id>255</id>
             <extendedTooltip>

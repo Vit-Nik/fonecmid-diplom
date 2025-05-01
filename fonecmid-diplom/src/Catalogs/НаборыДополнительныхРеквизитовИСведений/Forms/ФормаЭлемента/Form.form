@@ -178,11 +178,6 @@
       <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ДополнительныеРеквизитыSearchString</name>
       <id>104</id>
       <extendedTooltip>
@@ -216,11 +211,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ДополнительныеРеквизитыViewStatus</name>
       <id>107</id>
       <extendedTooltip>
@@ -255,11 +245,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ДополнительныеРеквизитыSearchControl</name>
       <id>110</id>
       <extendedTooltip>
@@ -420,11 +405,6 @@
       <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ДополнительныеСведенияSearchString</name>
       <id>113</id>
       <extendedTooltip>
@@ -458,11 +438,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ДополнительныеСведенияViewStatus</name>
       <id>116</id>
       <extendedTooltip>
@@ -497,11 +472,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ДополнительныеСведенияSearchControl</name>
       <id>119</id>
       <extendedTooltip>

@@ -134,11 +134,6 @@
       <name>ГруппыПравПриИзменении</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ГруппыПравСтрокаПоиска</name>
       <id>61</id>
       <extendedTooltip>
@@ -172,11 +167,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ГруппыПравСостояниеПросмотра</name>
       <id>64</id>
       <extendedTooltip>
@@ -211,11 +201,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ГруппыПравУправлениеПоиском</name>
       <id>67</id>
       <extendedTooltip>

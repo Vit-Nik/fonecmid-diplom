@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Role xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="589d0fc8-3c5e-49e1-8e19-4c1c89ed5d44">
+  <name>ВКМ_РаботаСГрафикомРабочихДней</name>
+  <synonym>
+    <key>ru</key>
+    <value>ВКМ работа с графиком рабочих дней</value>
+  </synonym>
+</mdclass:Role>

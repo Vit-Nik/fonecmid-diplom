@@ -211,11 +211,6 @@
       <name>УсловияВидимостиПриНачалеРедактирования</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>УсловияВидимостиСтрокаПоиска</name>
       <id>5</id>
       <extendedTooltip>
@@ -249,11 +244,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>УсловияВидимостиСостояниеПросмотра</name>
       <id>8</id>
       <extendedTooltip>
@@ -288,11 +278,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>УсловияВидимостиУправлениеПоиском</name>
       <id>11</id>
       <extendedTooltip>

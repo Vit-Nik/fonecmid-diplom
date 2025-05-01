@@ -535,11 +535,6 @@
             <name>ПользователиВариантаПриИзменении</name>
           </handlers>
           <searchStringAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ПользователиВариантаСтрокаПоиска</name>
             <id>210</id>
             <extendedTooltip>
@@ -573,11 +568,6 @@
             </extInfo>
           </searchStringAddition>
           <viewStatusAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ПользователиВариантаСостояниеПросмотра</name>
             <id>213</id>
             <extendedTooltip>
@@ -612,11 +602,6 @@
             </extInfo>
           </viewStatusAddition>
           <searchControlAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ПользователиВариантаУправлениеПоиском</name>
             <id>216</id>
             <extendedTooltip>
@@ -1671,11 +1656,6 @@
           <horizontalAlign>Left</horizontalAlign>
         </autoCommandBar>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ДеревоПодсистемСтрокаПоиска</name>
           <id>172</id>
           <extendedTooltip>
@@ -1709,11 +1689,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ДеревоПодсистемСостояниеПросмотра</name>
           <id>175</id>
           <extendedTooltip>
@@ -1748,11 +1723,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ДеревоПодсистемУправлениеПоиском</name>
           <id>178</id>
           <extendedTooltip>

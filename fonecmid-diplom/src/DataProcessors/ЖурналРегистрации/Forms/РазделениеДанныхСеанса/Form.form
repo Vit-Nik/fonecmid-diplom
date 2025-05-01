@@ -218,11 +218,6 @@
       <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>РазделениеДанныхСеансаSearchString</name>
       <id>29</id>
       <extendedTooltip>
@@ -256,11 +251,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>РазделениеДанныхСеансаViewStatus</name>
       <id>32</id>
       <extendedTooltip>
@@ -295,11 +285,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>РазделениеДанныхСеансаSearchControl</name>
       <id>35</id>
       <extendedTooltip>

@@ -448,11 +448,6 @@
           <autoFill>true</autoFill>
         </autoCommandBar>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ГруппыСтрокаПоиска</name>
           <id>17</id>
           <extendedTooltip>
@@ -486,11 +481,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ГруппыСостояниеПросмотра</name>
           <id>20</id>
           <extendedTooltip>
@@ -525,11 +515,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ГруппыУправлениеПоиском</name>
           <id>23</id>
           <extendedTooltip>

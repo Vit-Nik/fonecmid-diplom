@@ -300,11 +300,6 @@
           <horizontalAlign>Left</horizontalAlign>
         </autoCommandBar>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПересеченияСтрокаПоиска</name>
           <id>5</id>
           <extendedTooltip>
@@ -338,11 +333,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПересеченияСостояниеПросмотра</name>
           <id>8</id>
           <extendedTooltip>
@@ -377,11 +367,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ПересеченияУправлениеПоиском</name>
           <id>11</id>
           <extendedTooltip>
@@ -673,11 +658,6 @@
           <horizontalAlign>Left</horizontalAlign>
         </autoCommandBar>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ОбработчикиСНизкимПриоритетомСтрокаПоиска</name>
           <id>39</id>
           <extendedTooltip>
@@ -711,11 +691,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ОбработчикиСНизкимПриоритетомСостояниеПросмотра</name>
           <id>42</id>
           <extendedTooltip>
@@ -750,11 +725,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ОбработчикиСНизкимПриоритетомУправлениеПоиском</name>
           <id>45</id>
           <extendedTooltip>

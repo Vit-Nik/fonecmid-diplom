@@ -238,11 +238,6 @@
       <horizontalAlign>Left</horizontalAlign>
     </autoCommandBar>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ДеревоПодсистемСтрокаПоиска</name>
       <id>90</id>
       <extendedTooltip>
@@ -276,11 +271,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ДеревоПодсистемСостояниеПросмотра</name>
       <id>93</id>
       <extendedTooltip>
@@ -315,11 +305,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ДеревоПодсистемУправлениеПоиском</name>
       <id>96</id>
       <extendedTooltip>

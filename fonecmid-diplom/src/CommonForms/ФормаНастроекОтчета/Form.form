@@ -649,11 +649,6 @@
           <name>СоставГруппировкиПередУдалением</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СоставГруппировкиСтрокаПоиска</name>
           <id>628</id>
           <extendedTooltip>
@@ -687,11 +682,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СоставГруппировкиСостояниеПросмотра</name>
           <id>633</id>
           <extendedTooltip>
@@ -726,11 +716,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СоставГруппировкиУправлениеПоиском</name>
           <id>638</id>
           <extendedTooltip>
@@ -1864,6 +1849,10 @@
             <valuesPicture xsi:type="core:PictureRef">
               <picture>CommonPicture.ПиктограммыДоступаКНастройкамОтчета</picture>
             </valuesPicture>
+            <border xsi:type="core:BorderDef">
+              <style>Single</style>
+              <width>1</width>
+            </border>
           </extInfo>
         </items>
         <items xsi:type="form:FormField">
@@ -2750,11 +2739,6 @@
           <name>ОтборыПриАктивизацииЯчейки</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ОтборыСтрокаПоиска</name>
           <id>346</id>
           <extendedTooltip>
@@ -2788,11 +2772,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ОтборыСостояниеПросмотра</name>
           <id>351</id>
           <extendedTooltip>
@@ -2827,11 +2806,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ОтборыУправлениеПоиском</name>
           <id>356</id>
           <extendedTooltip>
@@ -3977,6 +3951,10 @@
               <autoMaxHeight>true</autoMaxHeight>
               <horizontalStretch>true</horizontalStretch>
               <verticalStretch>true</verticalStretch>
+              <border xsi:type="core:BorderDef">
+                <style>Single</style>
+                <width>1</width>
+              </border>
               <fileDragMode>AsFileRef</fileDragMode>
             </extInfo>
           </items>
@@ -4500,11 +4478,6 @@
             <name>ВыбранныеПоляОкончаниеПеретаскивания</name>
           </handlers>
           <searchStringAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ВыбранныеПоляСтрокаПоиска</name>
             <id>234</id>
             <extendedTooltip>
@@ -4538,11 +4511,6 @@
             </extInfo>
           </searchStringAddition>
           <viewStatusAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ВыбранныеПоляСостояниеПросмотра</name>
             <id>239</id>
             <extendedTooltip>
@@ -4577,11 +4545,6 @@
             </extInfo>
           </viewStatusAddition>
           <searchControlAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ВыбранныеПоляУправлениеПоиском</name>
             <id>244</id>
             <extendedTooltip>
@@ -5829,11 +5792,6 @@
               <name>СортировкаОкончаниеПеретаскивания</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>СортировкаСтрокаПоиска</name>
               <id>134</id>
               <extendedTooltip>
@@ -5867,11 +5825,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>СортировкаСостояниеПросмотра</name>
               <id>139</id>
               <extendedTooltip>
@@ -5906,11 +5859,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>СортировкаУправлениеПоиском</name>
               <id>144</id>
               <extendedTooltip>
@@ -6804,6 +6752,10 @@
             <valuesPicture xsi:type="core:PictureRef">
               <picture>CommonPicture.ПиктограммыДоступаКНастройкамОтчета</picture>
             </valuesPicture>
+            <border xsi:type="core:BorderDef">
+              <style>Single</style>
+              <width>1</width>
+            </border>
           </extInfo>
         </items>
         <commandBarLocation>Top</commandBarLocation>
@@ -7240,11 +7192,6 @@
           <name>ОформлениеПередУдалением</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ОформлениеСтрокаПоиска</name>
           <id>842</id>
           <extendedTooltip>
@@ -7278,11 +7225,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ОформлениеСостояниеПросмотра</name>
           <id>847</id>
           <extendedTooltip>
@@ -7317,11 +7259,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ОформлениеУправлениеПоиском</name>
           <id>852</id>
           <extendedTooltip>
@@ -7849,6 +7786,10 @@
             <valuesPicture xsi:type="core:PictureRef">
               <picture>CommonPicture.Отборы</picture>
             </valuesPicture>
+            <border xsi:type="core:BorderDef">
+              <style>Single</style>
+              <width>1</width>
+            </border>
           </extInfo>
         </items>
         <items xsi:type="form:FormField">
@@ -7908,6 +7849,10 @@
             <valuesPicture xsi:type="core:PictureRef">
               <picture>CommonPicture.ПоляИСортировки</picture>
             </valuesPicture>
+            <border xsi:type="core:BorderDef">
+              <style>Single</style>
+              <width>1</width>
+            </border>
           </extInfo>
         </items>
         <items xsi:type="form:FormField">
@@ -7967,6 +7912,10 @@
             <valuesPicture xsi:type="core:PictureRef">
               <picture>CommonPicture.Оформление</picture>
             </valuesPicture>
+            <border xsi:type="core:BorderDef">
+              <style>Single</style>
+              <width>1</width>
+            </border>
           </extInfo>
         </items>
         <commandBarLocation>Top</commandBarLocation>
@@ -8777,11 +8726,6 @@
           <name>СтруктураВариантаПеретаскивание</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СтруктураВариантаСтрокаПоиска</name>
           <id>433</id>
           <extendedTooltip>
@@ -8815,11 +8759,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СтруктураВариантаСостояниеПросмотра</name>
           <id>438</id>
           <extendedTooltip>
@@ -8854,11 +8793,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СтруктураВариантаУправлениеПоиском</name>
           <id>443</id>
           <extendedTooltip>
@@ -11398,11 +11332,6 @@
         <name>Подключаемый_Список_ПриИзменении</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>Список1СтрокаПоиска</name>
         <id>1262</id>
         <extendedTooltip>
@@ -11436,11 +11365,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>Список1СостояниеПросмотра</name>
         <id>1265</id>
         <extendedTooltip>
@@ -11475,11 +11399,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>Список1УправлениеПоиском</name>
         <id>1268</id>
         <extendedTooltip>
@@ -11749,11 +11668,6 @@
         <name>Подключаемый_Список_ПриИзменении</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>Список2СтрокаПоиска</name>
         <id>1283</id>
         <extendedTooltip>
@@ -11787,11 +11701,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>Список2СостояниеПросмотра</name>
         <id>1286</id>
         <extendedTooltip>
@@ -11826,11 +11735,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>Список2УправлениеПоиском</name>
         <id>1289</id>
         <extendedTooltip>
@@ -12100,11 +12004,6 @@
         <name>Подключаемый_Список_ПриИзменении</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>Список3СтрокаПоиска</name>
         <id>1304</id>
         <extendedTooltip>
@@ -12138,11 +12037,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>Список3СостояниеПросмотра</name>
         <id>1307</id>
         <extendedTooltip>
@@ -12177,11 +12071,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>Список3УправлениеПоиском</name>
         <id>1310</id>
         <extendedTooltip>
@@ -12451,11 +12340,6 @@
         <name>Подключаемый_Список_ПриИзменении</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>Список4СтрокаПоиска</name>
         <id>1325</id>
         <extendedTooltip>
@@ -12489,11 +12373,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>Список4СостояниеПросмотра</name>
         <id>1328</id>
         <extendedTooltip>
@@ -12528,11 +12407,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>Список4УправлениеПоиском</name>
         <id>1331</id>
         <extendedTooltip>

@@ -202,11 +202,6 @@
             <name>ВидЗагрузкиДанныхПередНачаломИзменения</name>
           </handlers>
           <searchStringAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ВидЗагрузкиДанныхСтрокаПоиска</name>
             <id>661</id>
             <extendedTooltip>
@@ -240,11 +235,6 @@
             </extInfo>
           </searchStringAddition>
           <viewStatusAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ВидЗагрузкиДанныхСостояниеПросмотра</name>
             <id>664</id>
             <extendedTooltip>
@@ -279,11 +269,6 @@
             </extInfo>
           </viewStatusAddition>
           <searchControlAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ВидЗагрузкиДанныхУправлениеПоиском</name>
             <id>667</id>
             <extendedTooltip>
@@ -2013,11 +1998,6 @@
             <name>ТаблицаСопоставленияДанныхПриАктивизацииЯчейки</name>
           </handlers>
           <searchStringAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ТаблицаСопоставленияДанныхСтрокаПоиска</name>
             <id>670</id>
             <extendedTooltip>
@@ -2051,11 +2031,6 @@
             </extInfo>
           </searchStringAddition>
           <viewStatusAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ТаблицаСопоставленияДанныхСостояниеПросмотра</name>
             <id>673</id>
             <extendedTooltip>
@@ -2090,11 +2065,6 @@
             </extInfo>
           </viewStatusAddition>
           <searchControlAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ТаблицаСопоставленияДанныхУправлениеПоиском</name>
             <id>676</id>
             <extendedTooltip>

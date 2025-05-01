@@ -2472,11 +2472,6 @@
             <horizontalAlign>Left</horizontalAlign>
           </autoCommandBar>
           <searchStringAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>РолиСтрокаПоиска</name>
             <id>291</id>
             <extendedTooltip>
@@ -2510,11 +2505,6 @@
             </extInfo>
           </searchStringAddition>
           <viewStatusAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>РолиСостояниеПросмотра</name>
             <id>294</id>
             <extendedTooltip>
@@ -2549,11 +2539,6 @@
             </extInfo>
           </viewStatusAddition>
           <searchControlAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>РолиУправлениеПоиском</name>
             <id>297</id>
             <extendedTooltip>

@@ -2013,11 +2013,6 @@
           <name>ЖурналВыбор</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ЖурналСтрокаПоиска</name>
           <id>181</id>
           <extendedTooltip>
@@ -2051,11 +2046,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ЖурналСостояниеПросмотра</name>
           <id>184</id>
           <extendedTooltip>
@@ -2090,11 +2080,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ЖурналУправлениеПоиском</name>
           <id>187</id>
           <extendedTooltip>

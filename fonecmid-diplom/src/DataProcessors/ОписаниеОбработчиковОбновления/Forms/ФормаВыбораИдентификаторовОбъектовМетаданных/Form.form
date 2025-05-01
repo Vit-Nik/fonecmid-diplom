@@ -129,11 +129,6 @@
       <horizontalAlign>Left</horizontalAlign>
     </autoCommandBar>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокИдентификаторовСтрокаПоиска</name>
       <id>5</id>
       <extendedTooltip>
@@ -167,11 +162,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокИдентификаторовСостояниеПросмотра</name>
       <id>8</id>
       <extendedTooltip>
@@ -206,11 +196,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокИдентификаторовУправлениеПоиском</name>
       <id>11</id>
       <extendedTooltip>

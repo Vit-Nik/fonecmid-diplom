@@ -815,6 +815,10 @@
               <valuesPicture xsi:type="core:PictureRef">
                 <picture>CommonPicture.ПиктограммыЭлементов</picture>
               </valuesPicture>
+              <border xsi:type="core:BorderDef">
+                <style>Single</style>
+                <width>1</width>
+              </border>
               <fileDragMode>AsFileRef</fileDragMode>
             </extInfo>
           </items>
@@ -926,6 +930,10 @@
                 <valuesPicture xsi:type="core:PictureRef">
                   <picture>StdPicture.MoveRight</picture>
                 </valuesPicture>
+                <border xsi:type="core:BorderDef">
+                  <style>Single</style>
+                  <width>1</width>
+                </border>
               </extInfo>
             </items>
             <items xsi:type="form:FormField">
@@ -1142,11 +1150,6 @@
             <name>НайденныеДублиПриАктивизацииСтроки</name>
           </handlers>
           <searchStringAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>НайденныеДублиСтрокаПоиска</name>
             <id>364</id>
             <extendedTooltip>
@@ -1180,11 +1183,6 @@
             </extInfo>
           </searchStringAddition>
           <viewStatusAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>НайденныеДублиСостояниеПросмотра</name>
             <id>367</id>
             <extendedTooltip>
@@ -1219,11 +1217,6 @@
             </extInfo>
           </viewStatusAddition>
           <searchControlAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>НайденныеДублиУправлениеПоиском</name>
             <id>370</id>
             <extendedTooltip>
@@ -1630,11 +1623,6 @@
                   <name>МестаИспользованияКандидатаВыбор</name>
                 </handlers>
                 <searchStringAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>МестаИспользованияКандидатаСтрокаПоиска</name>
                   <id>373</id>
                   <extendedTooltip>
@@ -1668,11 +1656,6 @@
                   </extInfo>
                 </searchStringAddition>
                 <viewStatusAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>МестаИспользованияКандидатаСостояниеПросмотра</name>
                   <id>376</id>
                   <extendedTooltip>
@@ -1707,11 +1690,6 @@
                   </extInfo>
                 </viewStatusAddition>
                 <searchControlAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>МестаИспользованияКандидатаУправлениеПоиском</name>
                   <id>379</id>
                   <extendedTooltip>
@@ -2795,11 +2773,6 @@
             <horizontalAlign>Left</horizontalAlign>
           </autoCommandBar>
           <searchStringAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ВозможныеДублиСтрокаПоиска</name>
             <id>477</id>
             <extendedTooltip>
@@ -2833,11 +2806,6 @@
             </extInfo>
           </searchStringAddition>
           <viewStatusAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ВозможныеДублиСостояниеПросмотра</name>
             <id>480</id>
             <extendedTooltip>
@@ -2872,11 +2840,6 @@
             </extInfo>
           </viewStatusAddition>
           <searchControlAddition>
-            <visible>true</visible>
-            <enabled>true</enabled>
-            <userVisible>
-              <common>true</common>
-            </userVisible>
             <name>ВозможныеДублиУправлениеПоиском</name>
             <id>483</id>
             <extendedTooltip>
@@ -3155,6 +3118,10 @@
                   <valuesPicture xsi:type="core:PictureRef">
                     <picture>StdPicture.MoveRight</picture>
                   </valuesPicture>
+                  <border xsi:type="core:BorderDef">
+                    <style>Single</style>
+                    <width>1</width>
+                  </border>
                 </extInfo>
               </items>
               <items xsi:type="form:FormField">
@@ -3374,11 +3341,6 @@
               <name>НеобработанныеДублиПриАктивизацииСтроки</name>
             </handlers>
             <searchStringAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>НеобработанныеДублиСтрокаПоиска</name>
               <id>382</id>
               <extendedTooltip>
@@ -3412,11 +3374,6 @@
               </extInfo>
             </searchStringAddition>
             <viewStatusAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>НеобработанныеДублиСостояниеПросмотра</name>
               <id>385</id>
               <extendedTooltip>
@@ -3451,11 +3408,6 @@
               </extInfo>
             </viewStatusAddition>
             <searchControlAddition>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
               <name>НеобработанныеДублиУправлениеПоиском</name>
               <id>388</id>
               <extendedTooltip>
@@ -3752,6 +3704,10 @@
                     <autoMaxHeight>true</autoMaxHeight>
                     <verticalStretch>true</verticalStretch>
                     <valuesPicture xsi:type="form:FormPicture"/>
+                    <border xsi:type="core:BorderDef">
+                      <style>Single</style>
+                      <width>1</width>
+                    </border>
                   </extInfo>
                 </items>
                 <items xsi:type="form:FormField">
@@ -3825,11 +3781,6 @@
                   <name>МестаИспользованияНеобработанныхПриАктивизацииСтроки</name>
                 </handlers>
                 <searchStringAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>МестаИспользованияНеобработанныхСтрокаПоиска</name>
                   <id>391</id>
                   <extendedTooltip>
@@ -3863,11 +3814,6 @@
                   </extInfo>
                 </searchStringAddition>
                 <viewStatusAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>МестаИспользованияНеобработанныхСостояниеПросмотра</name>
                   <id>394</id>
                   <extendedTooltip>
@@ -3902,11 +3848,6 @@
                   </extInfo>
                 </viewStatusAddition>
                 <searchControlAddition>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
                   <name>МестаИспользованияНеобработанныхУправлениеПоиском</name>
                   <id>397</id>
                   <extendedTooltip>

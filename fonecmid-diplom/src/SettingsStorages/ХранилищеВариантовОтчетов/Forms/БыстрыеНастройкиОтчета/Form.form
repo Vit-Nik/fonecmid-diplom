@@ -123,6 +123,10 @@
           <autoMaxHeight>true</autoMaxHeight>
           <horizontalStretch>true</horizontalStretch>
           <verticalStretch>true</verticalStretch>
+          <border xsi:type="core:BorderDef">
+            <style>Single</style>
+            <width>1</width>
+          </border>
           <fileDragMode>AsFileRef</fileDragMode>
         </extInfo>
       </items>
@@ -471,11 +475,6 @@
       <name>БыстрыеНастройкиПриИзменении</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>БыстрыеНастройкиСтрокаПоиска</name>
       <id>5</id>
       <extendedTooltip>
@@ -509,11 +508,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>БыстрыеНастройкиСостояниеПросмотра</name>
       <id>8</id>
       <extendedTooltip>
@@ -548,11 +542,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>БыстрыеНастройкиУправлениеПоиском</name>
       <id>11</id>
       <extendedTooltip>

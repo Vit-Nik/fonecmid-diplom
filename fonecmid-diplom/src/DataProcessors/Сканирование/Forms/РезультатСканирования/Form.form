@@ -102,11 +102,6 @@
         <name>ТаблицаФайловПриАктивизацииСтроки</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ТаблицаФайловСтрокаПоиска</name>
         <id>39</id>
         <extendedTooltip>
@@ -140,11 +135,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ТаблицаФайловСостояниеПросмотра</name>
         <id>42</id>
         <extendedTooltip>
@@ -179,11 +169,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ТаблицаФайловУправлениеПоиском</name>
         <id>45</id>
         <extendedTooltip>
@@ -349,6 +334,10 @@
           <key>ru</key>
           <value>Подождите. Идет сканирование...</value>
         </nonselectedPictureText>
+        <border xsi:type="core:BorderDef">
+          <style>Single</style>
+          <width>1</width>
+        </border>
       </extInfo>
     </items>
     <visible>true</visible>

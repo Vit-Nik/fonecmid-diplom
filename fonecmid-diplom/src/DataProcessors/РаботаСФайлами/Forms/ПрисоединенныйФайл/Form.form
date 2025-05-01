@@ -4043,11 +4043,6 @@
           <name>ЭлектронныеПодписиВыбор</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ЭлектронныеПодписиСтрокаПоиска</name>
           <id>131</id>
           <extendedTooltip>
@@ -4081,11 +4076,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ЭлектронныеПодписиСостояниеПросмотра</name>
           <id>134</id>
           <extendedTooltip>
@@ -4120,11 +4110,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ЭлектронныеПодписиУправлениеПоиском</name>
           <id>137</id>
           <extendedTooltip>
@@ -4446,11 +4431,6 @@
           <name>СертификатыШифрованияВыбор</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СертификатыШифрованияСтрокаПоиска</name>
           <id>140</id>
           <extendedTooltip>
@@ -4484,11 +4464,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СертификатыШифрованияСостояниеПросмотра</name>
           <id>143</id>
           <extendedTooltip>
@@ -4523,11 +4498,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>СертификатыШифрованияУправлениеПоиском</name>
           <id>146</id>
           <extendedTooltip>

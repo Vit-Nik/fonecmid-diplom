@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="26a1b6bf-bb82-43d2-8a07-f1edf9d44890">
+  <producedTypes>
+    <objectType typeId="95ac1fd3-b3a6-4cda-bb2b-3eb3ceeac12f" valueTypeId="7e3584e2-44d3-4f89-a9eb-09258e2f29cb"/>
+    <managerType typeId="387dab28-c3f3-4893-ac9a-2615ea283094" valueTypeId="37ec510e-aecb-4e6e-9651-dab4d7fd3c23"/>
+  </producedTypes>
+  <name>ВКМ_ЗаполнениеРабочихДней</name>
+  <synonym>
+    <key>ru</key>
+    <value>Заполнение рабочих дней</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.ВКМ_ЗаполнениеРабочихДней.Form.Форма</defaultForm>
+  <forms uuid="462d872c-c54f-4c41-8dc2-cc791e4bc6f3">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

@@ -132,11 +132,6 @@
       <name>СписокДомовВыбор</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокАдресныхОбъектовСтрокаПоиска</name>
       <id>7</id>
       <extendedTooltip>
@@ -170,11 +165,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокАдресныхОбъектовСостояниеПросмотра</name>
       <id>10</id>
       <extendedTooltip>
@@ -209,11 +199,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокАдресныхОбъектовУправлениеПоиском</name>
       <id>13</id>
       <extendedTooltip>

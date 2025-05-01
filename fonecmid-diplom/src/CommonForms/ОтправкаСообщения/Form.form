@@ -249,11 +249,6 @@
         <name>ПочтовыйАдресаПолучателейПриНачалеРедактирования</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ПочтовыеАдресаПолучателейСтрокаПоиска</name>
         <id>91</id>
         <extendedTooltip>
@@ -287,11 +282,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ПочтовыеАдресаПолучателейСостояниеПросмотра</name>
         <id>94</id>
         <extendedTooltip>
@@ -326,11 +316,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>ПочтовыеАдресаПолучателейУправлениеПоиском</name>
         <id>97</id>
         <extendedTooltip>
@@ -945,11 +930,6 @@
           <name>УстановитьПризнакМодифицированностиФормы</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ВложенияСтрокаПоиска</name>
           <id>67</id>
           <extendedTooltip>
@@ -983,11 +963,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ВложенияСостояниеПросмотра</name>
           <id>70</id>
           <extendedTooltip>
@@ -1022,11 +997,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ВложенияУправлениеПоиском</name>
           <id>73</id>
           <extendedTooltip>

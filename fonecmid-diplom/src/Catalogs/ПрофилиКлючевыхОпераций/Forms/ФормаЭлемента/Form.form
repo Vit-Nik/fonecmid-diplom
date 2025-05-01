@@ -319,11 +319,6 @@
       <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>КлючевыеОперацииПрофиляСтрокаПоиска</name>
       <id>10</id>
       <extendedTooltip>
@@ -357,11 +352,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>КлючевыеОперацииПрофиляСостояниеПросмотра</name>
       <id>13</id>
       <extendedTooltip>
@@ -396,11 +386,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>КлючевыеОперацииПрофиляУправлениеПоиском</name>
       <id>16</id>
       <extendedTooltip>

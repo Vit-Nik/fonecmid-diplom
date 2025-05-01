@@ -352,11 +352,6 @@
       <name>СписокКолонокПриНачалеРедактирования</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокКолонокSearchString</name>
       <id>19</id>
       <extendedTooltip>
@@ -390,11 +385,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокКолонокViewStatus</name>
       <id>22</id>
       <extendedTooltip>
@@ -429,11 +419,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>СписокКолонокSearchControl</name>
       <id>25</id>
       <extendedTooltip>

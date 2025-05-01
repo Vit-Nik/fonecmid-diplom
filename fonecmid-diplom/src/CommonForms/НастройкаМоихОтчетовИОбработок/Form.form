@@ -356,11 +356,6 @@
       <horizontalAlign>Left</horizontalAlign>
     </autoCommandBar>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ИспользуемыеКомандыСтрокаПоиска</name>
       <id>25</id>
       <extendedTooltip>
@@ -394,11 +389,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ИспользуемыеКомандыСостояниеПросмотра</name>
       <id>28</id>
       <extendedTooltip>
@@ -433,11 +423,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ИспользуемыеКомандыУправлениеПоиском</name>
       <id>31</id>
       <extendedTooltip>

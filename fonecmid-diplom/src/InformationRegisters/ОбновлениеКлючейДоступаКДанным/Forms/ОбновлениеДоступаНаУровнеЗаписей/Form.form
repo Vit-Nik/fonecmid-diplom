@@ -3434,11 +3434,6 @@
         <name>СпискиПриАктивизацииСтроки</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>СпискиСтрокаПоиска</name>
         <id>9</id>
         <extendedTooltip>
@@ -3472,11 +3467,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>СпискиСостояниеПросмотра</name>
         <id>12</id>
         <extendedTooltip>
@@ -3511,11 +3501,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>СпискиУправлениеПоиском</name>
         <id>15</id>
         <extendedTooltip>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bb6ef5cf-7ac8-4f47-bba0-5b5c054b5d05">
+  <producedTypes>
+    <objectType typeId="9e0088b4-42a3-4784-befa-c29849ef856e" valueTypeId="16343ee1-f980-4a2c-b962-5adb1491d354"/>
+    <refType typeId="52b42f4d-6ac2-4b05-b9b7-300039c93f9d" valueTypeId="9b24a77d-e234-4a45-838e-411d280e722b"/>
+    <selectionType typeId="16524680-5804-4126-b400-0fa35a2df530" valueTypeId="e6b3e42a-e817-4d77-b0c8-83cbad479222"/>
+    <listType typeId="17da205e-6804-4c2a-9e72-a6ea26e4c922" valueTypeId="347c3b3d-8bac-465c-9791-7381876bc8f0"/>
+    <managerType typeId="edc4bb96-3281-4573-a017-c59979875428" valueTypeId="c491daf2-b3fe-4cbe-86d7-1d758b0e6a94"/>
+  </producedTypes>
+  <name>ВКМ_УведомленияТГБот</name>
+  <synonym>
+    <key>ru</key>
+    <value>Уведомления ТГ бот</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+  <attributes uuid="48a71c65-f7f9-41a8-94d8-48c5d36a7985">
+    <name>ТекстСообщения</name>
+    <synonym>
+      <key>ru</key>
+      <value>Текст сообщения</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:StringValue">
+      <value></value>
+    </fillValue>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
+</mdclass:Catalog>

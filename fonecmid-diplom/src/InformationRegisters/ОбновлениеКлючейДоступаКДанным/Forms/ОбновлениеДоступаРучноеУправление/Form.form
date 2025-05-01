@@ -548,11 +548,6 @@
         <horizontalAlign>Left</horizontalAlign>
       </autoCommandBar>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>СпискиДляОбновленияСтрокаПоиска</name>
         <id>22</id>
         <extendedTooltip>
@@ -586,11 +581,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>СпискиДляОбновленияСостояниеПросмотра</name>
         <id>25</id>
         <extendedTooltip>
@@ -625,11 +615,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>СпискиДляОбновленияУправлениеПоиском</name>
         <id>28</id>
         <extendedTooltip>

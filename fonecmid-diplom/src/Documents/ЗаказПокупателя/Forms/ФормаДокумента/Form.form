@@ -757,11 +757,6 @@
           <name>ТоварыПриИзменении</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ТоварыСтрокаПоиска</name>
           <id>108</id>
           <extendedTooltip>
@@ -795,11 +790,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ТоварыСостояниеПросмотра</name>
           <id>111</id>
           <extendedTooltip>
@@ -834,11 +824,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>ТоварыУправлениеПоиском</name>
           <id>114</id>
           <extendedTooltip>
@@ -1291,11 +1276,6 @@
           <name>УслугиПриИзменении</name>
         </handlers>
         <searchStringAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>УслугиСтрокаПоиска</name>
           <id>136</id>
           <extendedTooltip>
@@ -1329,11 +1309,6 @@
           </extInfo>
         </searchStringAddition>
         <viewStatusAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>УслугиСостояниеПросмотра</name>
           <id>139</id>
           <extendedTooltip>
@@ -1368,11 +1343,6 @@
           </extInfo>
         </viewStatusAddition>
         <searchControlAddition>
-          <visible>true</visible>
-          <enabled>true</enabled>
-          <userVisible>
-            <common>true</common>
-          </userVisible>
           <name>УслугиУправлениеПоиском</name>
           <id>142</id>
           <extendedTooltip>

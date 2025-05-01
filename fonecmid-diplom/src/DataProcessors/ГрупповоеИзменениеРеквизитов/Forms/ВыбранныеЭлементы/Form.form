@@ -256,11 +256,6 @@
         <name>КомпоновщикНастроекНастройкиОтборПриИзменении</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>КомпоновщикНастроекНастройкиОтборSearchString</name>
         <id>53</id>
         <extendedTooltip>
@@ -294,11 +289,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>КомпоновщикНастроекНастройкиОтборViewStatus</name>
         <id>56</id>
         <extendedTooltip>
@@ -333,11 +323,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>КомпоновщикНастроекНастройкиОтборSearchControl</name>
         <id>59</id>
         <extendedTooltip>
@@ -588,11 +573,6 @@
         <name>СписокВыбор</name>
       </handlers>
       <searchStringAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>СписокСтрокаПоиска</name>
         <id>78</id>
         <extendedTooltip>
@@ -628,11 +608,6 @@
         </extInfo>
       </searchStringAddition>
       <viewStatusAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>СписокСостояниеПросмотра</name>
         <id>81</id>
         <extendedTooltip>
@@ -667,11 +642,6 @@
         </extInfo>
       </viewStatusAddition>
       <searchControlAddition>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
         <name>СписокУправлениеПоиском</name>
         <id>84</id>
         <extendedTooltip>

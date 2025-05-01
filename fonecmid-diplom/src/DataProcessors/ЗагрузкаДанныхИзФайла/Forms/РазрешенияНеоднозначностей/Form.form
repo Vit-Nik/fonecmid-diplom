@@ -480,11 +480,6 @@
       <name>ВариантыВыбораВыбор</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ВариантыВыбораСтрокаПоиска</name>
       <id>65</id>
       <extendedTooltip>
@@ -518,11 +513,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ВариантыВыбораСостояниеПросмотра</name>
       <id>68</id>
       <extendedTooltip>
@@ -557,11 +547,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ВариантыВыбораУправлениеПоиском</name>
       <id>71</id>
       <extendedTooltip>
@@ -857,11 +842,6 @@
       <name>ЭлементыСправочникаВыбор</name>
     </handlers>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ЭлементыСправочникаСтрокаПоиска</name>
       <id>74</id>
       <extendedTooltip>
@@ -895,11 +875,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ЭлементыСправочникаСостояниеПросмотра</name>
       <id>77</id>
       <extendedTooltip>
@@ -934,11 +909,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ЭлементыСправочникаУправлениеПоиском</name>
       <id>80</id>
       <extendedTooltip>

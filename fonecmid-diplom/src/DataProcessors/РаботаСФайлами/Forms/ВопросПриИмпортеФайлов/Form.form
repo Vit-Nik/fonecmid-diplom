@@ -135,11 +135,6 @@
       <autoFill>true</autoFill>
     </autoCommandBar>
     <searchStringAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ФайлыБольшиеSearchString</name>
       <id>28</id>
       <extendedTooltip>
@@ -173,11 +168,6 @@
       </extInfo>
     </searchStringAddition>
     <viewStatusAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ФайлыБольшиеViewStatus</name>
       <id>31</id>
       <extendedTooltip>
@@ -212,11 +202,6 @@
       </extInfo>
     </viewStatusAddition>
     <searchControlAddition>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
       <name>ФайлыБольшиеSearchControl</name>
       <id>34</id>
       <extendedTooltip>
