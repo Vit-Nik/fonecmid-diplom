@@ -16,4 +16,5 @@
   <content>Report.ВКМ_АнализВыставленныхАктов</content>
   <content>Catalog.Контрагенты</content>
   <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>Catalog.ВКМ_УведомленияТГБот</content>
 </mdclass:Subsystem>

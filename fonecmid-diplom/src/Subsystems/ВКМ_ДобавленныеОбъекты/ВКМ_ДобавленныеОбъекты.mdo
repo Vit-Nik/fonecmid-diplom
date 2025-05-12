@@ -51,4 +51,5 @@
   <content>CommonModule.ВКМ_ИнтеграцияТГ</content>
   <content>Catalog.ВКМ_УведомленияТГБот</content>
   <content>ScheduledJob.ВКМ_ОтправкаУведомленийВТГ</content>
+  <content>Role.ВКМ_ОбслуживаниеКлиентаМенеджер</content>
 </mdclass:Subsystem>
